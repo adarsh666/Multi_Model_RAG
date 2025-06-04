@@ -1,0 +1,13 @@
+ipykernel
+langchain 
+langchain-community 
+langchain_experimental 
+langchain_openai 
+langchain_milvus 
+unstructured[all-docs] 
+pydantic 
+lxml 
+openai
+tiktoken 
+pytesseract
+rank_bm25
